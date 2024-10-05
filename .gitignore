@@ -1,6 +1,6 @@
 etc/
-image/
 include/
 Scripts/
 share/
 Lib/
+pyvenv.cfg

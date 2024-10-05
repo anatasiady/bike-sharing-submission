@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Bike Sharing Dashboard Streamlit Preview](image/dashboard_preview.png
+![Bike Sharing Dashboard Streamlit Preview](data/dashboard_preview.png
 )
 `
 ## Setup Environment - Shell/Terminal
